@@ -35,3 +35,4 @@ For each student as well as class reports. These informations can be included in
 
 ## References
 [ScanX Official Documenation](https://docs.google.com/document/d/1CtkKMOCR8tmi2DWnbyFb4hrxrCWxMfYWTHxht4Xx3R0/edit?usp=sharing "This is the document containing the project details")
+[Get data from database into datatables](https://www.youtube.com/watch?v=O6PNdCZYuRc "This video explains how to get data into database from a mysql database")
